@@ -1,6 +1,8 @@
+var a = 5
+var b = 10
 
 function add(){
-  return 5+10
+  return a + b
 }
 
 function subtract(){
